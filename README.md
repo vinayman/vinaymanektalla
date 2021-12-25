@@ -1,3 +1,9 @@
+## ✨ Changes
+
+I have made some changes to the Gatsby Start Portfolio to personalise it and add some features which I desired.
+
+I have left the rest of the README the same to reflect the repo which I have cloned.
+
 <p align="center">
   <a href="https://cara.lekoarts.de">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
