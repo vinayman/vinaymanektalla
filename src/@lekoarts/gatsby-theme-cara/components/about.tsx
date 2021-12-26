@@ -7,7 +7,6 @@ import { UpDown, UpDownWide } from "../styles/animations"
 // @ts-ignore
 import AboutMDX from "../sections/about"
 import IconLink from "./common/iconlink"
-import Button from "./common/button"
 
 const About = ({ offset, factor = 1 }: { offset: number; factor?: number }) => (
   <div>
@@ -41,7 +40,7 @@ const About = ({ offset, factor = 1 }: { offset: number; factor?: number }) => (
       <Inner>
         <AboutMDX />
       </Inner>
-      <div className="home__social">
+      <div className="about__social">
         <IconLink
           label="github"
           icon={['fab', 'github']}
