@@ -118,3 +118,10 @@ To learn more about Gatsby themes specifically, I recommend checking out the [th
 Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
 
 Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts) or [GitHub Sponsor](https://github.com/sponsors/LekoArts)!
+
+
+### 3. **Building for deploying to github pages**
+
+Make your changes to master and then run:
+
+`npm run deploy`
