@@ -69,6 +69,12 @@ Your site is now running at `http://localhost:8000`!
 
 If you want to learn more about how you can use a Gatsby starter that is configured with a Gatsby theme, you can check out this [shorter](https://www.gatsbyjs.com/docs/how-to/plugins-and-themes/using-a-gatsby-theme/) or [longer](https://www.gatsbyjs.com/tutorial/using-a-theme/) tutorial. The tutorials don't exactly apply to this starter however the concepts are the same.
 
+### 4. **Building for deploying to github pages**
+
+All the configuration changes to deploy and run via gh-pages has been completed - to deploy to your github pages simply run:
+
+`npm run deploy`
+
 ## 📝 Using and modifying this starter
 
 **Important Note:** Please read the guide [Shadowing in Gatsby Themes](https://www.gatsbyjs.com/docs/how-to/plugins-and-themes/shadowing/) to understand how to customize the underlying theme!
@@ -118,10 +124,3 @@ To learn more about Gatsby themes specifically, I recommend checking out the [th
 Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
 
 Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts) or [GitHub Sponsor](https://github.com/sponsors/LekoArts)!
-
-
-### 3. **Building for deploying to github pages**
-
-Make your changes to master and then run:
-
-`npm run deploy`
